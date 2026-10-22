@@ -1,0 +1,26 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+.build/
+build/
+dist/
+DerivedData/
+
+# Private production material and research outputs
+internal-research/
+fixtures/private/
+reports/
+*.aaf
+*.cpr
+*.npr
+*.fcpxml
+*.fcpxmld/
+*.wav
+*.bwf
+*.aif
+*.aiff
+*.mxf
+*.mov
+*.mp4
+
